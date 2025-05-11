@@ -1,12 +1,47 @@
-# React + Vite
+🧵 T-Shirt Customizer – React Assignment
+This is a responsive React + Vite-based T-shirt customization page built for a POD store assignment. It allows users to customize a t-shirt with their height, weight, build, upload a design image, and enter up to 3 lines of text to be printed.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 Live Demo
+👉 https://tshirt-customizer-4af.pages.dev
 
-Currently, two official plugins are available:
+✅ Features Implemented
+🎯 Form Fields: Height, Weight, Build (dropdown: lean, reg, athletic, big)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🖼️ Image Upload: Upload or drag-and-drop an image with live preview
 
-## Expanding the ESLint configuration
+✍️ Text Box: Up to 3 lines of custom text input
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Themes: 3 unique UI themes using Tailwind CSS
+
+⌨️ Alt + Q keyboard shortcut to switch between themes
+
+⚛️ Form management with react-hook-form
+
+⚡ Built with Vite + Tailwind for fast and modern dev experience
+
+📱 Fully responsive layout, no backend, no header/footer
+
+📦 Tech Stack
+React
+
+Vite
+
+Tailwind CSS
+
+React Hook Form
+
+Cloudflare Pages (for deployment)
+
+🧠 AI Usage Disclosure
+I used ChatGPT to:
+
+Clarify assignment requirements
+
+Generate initial structure with React + Tailwind
+
+Refactor components for better styling and theme switching
+
+Get deployment steps for Cloudflare Pages
+
+All code was reviewed and customized based on the project needs.
+
